@@ -15,5 +15,6 @@ function contato(){
 		mensagem.focus();
 		 return false;
 	}
-	  
+	  alert("Formulário enviado!");
+
 }
